@@ -16,7 +16,7 @@ I am a Postdoctoral Researcher at University College London, hosted by Professor
 - [2025/02/04] Our paper entitled "Synthetic vs. Real: An Analysis of Critical Scenarios for Autonomous Vehicle Testing" was accepted by the ASE journal.
 - [2025/01/15] I started as a Postdoctoral Researcher in the SOLAR group in the Department of Computer Science at University College London (UCL), UK.
 - [2024/11/15] I defended my PhD thesis entitled "Critical Scenario Identification for Testing of Realistic Autonomous Driving Systems" at Lund University, Sweden.
-- [2024/08/27] I gave a talk on experience sharing to new PhD students at the WASP Community Building Summer School 2024 in Norrköping, Sweden.  
+- [2024/08/27] I gave a talk on experience sharing to junior PhD students at the WASP Community Building Summer School 2024 in Norrköping, Sweden.  
 - [2024/07/19] I presented our paper entitled "An Empirically Grounded Path Forward for Scenario-Based Testing of Autonomous Driving Systems" at the FSE conference in Porto de Galinhas, Brazil.
 - [2024/06/20] Our paper entitled "Threats to Validity in Software Engineering -- hypocritical paper section or essential analysis?" was accepted by the ESEM conference.
 - [2024/04/25] I gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the TestCoast conference in Gothenburg, Sweden.
