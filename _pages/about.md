@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,10 +11,12 @@ Dr. Qunying Song is a Postdoctoral Researcher at University College London, host
 
 ## News
 
-- [2025/04/08] Gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the SSY seminar, King’s College London (KCL).
-- [2025/01/15] Started as a Postdoctoral Researcher in the SOLAR group at University College London (UCL).
-- [2024/11/15] Defended my PhD thesis entitled "Critical Scenario Identification for Testing of Realistic Autonomous Driving Systems" at Lund University, Sweden.
-- [2024/07/19] Presented a paper entitled "An Empirically Grounded Path Forward for Scenario-Based Testing of Autonomous Driving Systems" at the FSE conference in Porto de Galinhas, Brazil.
-- [2024/04/25] Gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the TestCoast conference in Gothenburg, Sweden.
-- [2024/04/15] Presented a paper entitled "Generating Executable Test Scenarios from Autonomous Vehicle Disengagements Using Natural Language Processing" at the SEAMS conference, co-located with ICSE, in Lisbon, Portugal.
-- [2024/04/03] Awarded the "WASP International Postdoc Scholarship" by the Knut och Alice Wallenbergs Foundation.
+<sub>- [2025/04/08] Gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the SSY seminar, King’s College London (KCL), UK.
+<sub>- [2025/01/15] Started as a Postdoctoral Researcher in the SOLAR group at University College London (UCL), UK.
+<sub>- [2024/11/15] Defended my PhD thesis entitled "Critical Scenario Identification for Testing of Realistic Autonomous Driving Systems" at Lund University, Sweden.
+<sub>- [2024/08/27] Gave a talk on experience sharing at the WASP Community Building Summer School 2024 in Norrköping, Sweden.  
+<sub>- [2024/07/19] Presented a paper entitled "An Empirically Grounded Path Forward for Scenario-Based Testing of Autonomous Driving Systems" at the FSE conference in Porto de Galinhas, Brazil.
+<sub>- [2024/04/25] Gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the TestCoast conference in Gothenburg, Sweden.
+<sub>- [2024/04/15] Presented a paper entitled "Generating Executable Test Scenarios from Autonomous Vehicle Disengagements Using Natural Language Processing" at the SEAMS conference, co-located with ICSE, in Lisbon, Portugal.
+<sub>- [2024/04/03] Awarded the "WASP International Postdoc Scholarship" by the Knut och Alice Wallenbergs Foundation.
+<sub>- [2023/08/01] Finished my research visit at King’s College London (KCL), hosted by Professor Mohammad Reza Mousavi.
