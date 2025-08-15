@@ -167,8 +167,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
   # _supervision
   - scope:
       path: ""
@@ -176,7 +175,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
   # _teaching
   - scope:
       path: ""
@@ -184,8 +183,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
   # _services
   - scope:
       path: ""
@@ -193,7 +191,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
