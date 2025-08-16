@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at University College London, hosted by Professors Federica Sarro and Mark Harman. My research focuses on testing autonomous driving systems, with particular emphasis on scenario-based testing and critical scenario identification. I earned my PhD in Computer Science from Lund University, Sweden, in 2024, under the supervision of Professor Per Runeson and Dr. Emelie Engström. Prior to my doctoral studies, I obtained my bachelor’s and master’s degrees in Software Engineering from Kristianstad University, Sweden, in 2012 and 2013, respectively, and subsequently worked as a software engineer at several companies, including Ericsson, Alibaba, and Qlik.
+I am a Postdoctoral Researcher at University College London, hosted by Professors Federica Sarro and Mark Harman. My research focuses on testing autonomous driving systems, with particular emphasis on scenario-based testing and critical scenario identification. I earned my PhD in Computer Science from Lund University, Sweden, in 2024, supported by the WASP program, under the supervision of Professor Per Runeson and Dr. Emelie Engström. Prior to my doctoral studies, I obtained my bachelor’s and master’s degrees in Software Engineering from Kristianstad University, Sweden, in 2012 and 2013, respectively, and subsequently worked as a software engineer at several companies, including Ericsson, Alibaba, and Qlik.
 
 ## News
 
