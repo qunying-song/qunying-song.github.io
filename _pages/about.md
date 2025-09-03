@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at University College London, hosted by Professors Federica Sarro and Mark Harman. My research interests include software testing for autonomous driving systems, where I explore search-based and generative AI techniques, alongside the fields of SE4AI and AI4SE more generally. I earned my PhD in Computer Science from Lund University, Sweden, in 2024, supported by the WASP program, under the supervision of Professor Per Runeson and Dr. Emelie Engström. Prior to my doctoral studies, I obtained my bachelor’s and master’s degrees in Software Engineering from Kristianstad University, Sweden, in 2012 and 2013, respectively, and subsequently worked as a software engineer at several companies, including Ericsson, Alibaba, and Qlik. Feel free to reach out if you want to collaborate on research.
+I am a Postdoctoral Researcher at University College London, hosted by Professors Federica Sarro and Mark Harman. My research interests include software testing for autonomous driving systems, where I explore search-based and generative AI techniques, alongside the fields of SE4AI and AI4SE more generally. I earned my PhD in Computer Science from Lund University, Sweden, in 2024, supported by the WASP program, under the supervision of Professor Per Runeson and Dr. Emelie Engström. Prior to my doctoral studies, I obtained my bachelor’s and master’s degrees in Software Engineering from Kristianstad University, Sweden, in 2012 and 2013, respectively, and worked as a software engineer at several companies, including Ericsson, Alibaba, and Qlik. Feel free to reach out if you want to collaborate on research.
 
 
 
