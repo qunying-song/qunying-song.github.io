@@ -28,7 +28,3 @@ I am a Postdoctoral Researcher at University College London, hosted by Professor
 - [2023/12/21] Our paper entitled "Industry Practices for Challenging Autonomous Driving Systems with Critical Scenarios" was accepted by the TOSEM journal.  
 - [2023/08/01] I finished a three-month research visit at King’s College London (KCL), UK, hosted by Professor Mohammad Reza Mousavi.
 - [2023/05/16] I was awarded the "Nils Hörjel Scholarhip" by the Nils Hörjel Research Fund.
-
-
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=dlPdl4RkxNqFfDqk1-nNGBEJvOmM3cRcuU_I4mEqNIM&cl=ffffff&w=a"></script>
