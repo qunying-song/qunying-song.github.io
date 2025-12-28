@@ -31,8 +31,4 @@ I am a Postdoctoral Researcher at University College London, hosted by Professor
 
 
 
-<div style="width: 300px; margin: 40px auto; text-align: center;">
-  <script type="text/javascript" id="mapmyvisitors" 
-    src="//mapmyvisitors.com/map.js?d=dlPdl4RkxNqFfDqk1-nNGBEJvOmM3cRcuU_I4mEqNIM&cl=ffffff&w=a">
-  </script>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=dlPdl4RkxNqFfDqk1-nNGBEJvOmM3cRcuU_I4mEqNIM&cl=ffffff&w=a"></script>
