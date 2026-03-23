@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ## Program Committee
+- 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 - 30th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2026)
-- 42nd International Conference on Software Maintenance and Evolution (ICSME26)
-- 19th IEEE International Conference on Software Testing, Verification and Validation (ICST26)
-- 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM25)
+- 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)
+- 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)
+- 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)
 
 ## Journal Reviewer
 - Transactions on Software Engineering and Methodology (TOSEM)
