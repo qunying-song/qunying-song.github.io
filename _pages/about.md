@@ -14,6 +14,7 @@ I am a Postdoctoral Researcher at University College London, hosted by Professor
 
 ## News
 
+- [2026/03/27] Our paper entitled "Generative AI for Testing of Autonomous Driving Systems: A Survey" was accepted by the TOSEM journal.
 - [2025/09/18] I gave an online talk to Scania on "Generative AI for Testing of Autonomous Driving Systems: A Survey".
 - [2025/04/08] I gave a talk on "Critical Scenario Identification for Testing Autonomous Driving Systems" at the SSY seminar, King’s College London (KCL), UK.
 - [2025/02/04] Our paper entitled "Synthetic vs. Real: An Analysis of Critical Scenarios for Autonomous Vehicle Testing" was accepted by the ASE journal.
